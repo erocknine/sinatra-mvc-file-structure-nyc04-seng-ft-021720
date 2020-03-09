@@ -8,7 +8,9 @@ class Dog
     @age = age
   end
   
-  
+  def self.all
+    
+  end
 
 
 end
