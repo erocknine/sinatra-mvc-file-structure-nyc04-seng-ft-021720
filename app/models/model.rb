@@ -1,4 +1,6 @@
-class Model
+class Dog
+  
+  def initialize
 
 
 end
